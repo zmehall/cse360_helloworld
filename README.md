@@ -1,2 +1,1 @@
-# cse360_helloworld
-CSE 360
+# In Class Github Activity
